@@ -1,3 +1,0 @@
-peter
-TERNARYCOMPUTER
-Sunday, August 28, 2022 7:39:49 PM
