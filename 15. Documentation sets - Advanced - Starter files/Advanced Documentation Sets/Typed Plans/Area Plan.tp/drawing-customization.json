@@ -1,0 +1,345 @@
+{
+    "filter_tree" : {
+        "name" : "Filter tree",
+        "processors" : [
+            {
+                "queries" : [
+                    {
+                        "name" : "Space",
+                        "processors" : [
+                            {
+                                "lhs" : {
+                                    "name" : "Type~BIM",
+                                    "type" : "Property",
+                                    "value_type" : "String"
+                                },
+                                "operation" : "=",
+                                "property_lookup" : "TopDown",
+                                "rhs" : {
+                                    "type" : "Literal",
+                                    "value" : "Space",
+                                    "value_type" : "String"
+                                },
+                                "type" : "TypedFilter"
+                            },
+                            {
+                                "queries" : [
+                                    {
+                                        "name" : "<5m2",
+                                        "processors" : [
+                                            {
+                                                "lhs" : {
+                                                    "name" : "GrossFloorArea~IFC2x3~BIM",
+                                                    "type" : "Property",
+                                                    "value_type" : "Real"
+                                                },
+                                                "operation" : "<",
+                                                "property_lookup" : "TopDown",
+                                                "rhs" : {
+                                                    "type" : "Literal",
+                                                    "value" : 5000000.0000000000000000,
+                                                    "value_type" : "Real"
+                                                },
+                                                "type" : "TypedFilter"
+                                            },
+                                            {
+                                                "name" : "<5m2",
+                                                "type" : "Placeholder"
+                                            }
+                                        ],
+                                        "version" : 0
+                                    },
+                                    {
+                                        "name" : "5-15m2",
+                                        "processors" : [
+                                            {
+                                                "lhs" : {
+                                                    "name" : "GrossFloorArea~IFC2x3~BIM",
+                                                    "type" : "Property",
+                                                    "value_type" : "Real"
+                                                },
+                                                "operation" : ">=",
+                                                "property_lookup" : "TopDown",
+                                                "rhs" : {
+                                                    "type" : "Literal",
+                                                    "value" : 5000000.0000000000000000,
+                                                    "value_type" : "Real"
+                                                },
+                                                "type" : "TypedFilter"
+                                            },
+                                            {
+                                                "lhs" : {
+                                                    "name" : "GrossFloorArea~IFC2x3~BIM",
+                                                    "type" : "Property",
+                                                    "value_type" : "Real"
+                                                },
+                                                "operation" : "<",
+                                                "property_lookup" : "TopDown",
+                                                "rhs" : {
+                                                    "type" : "Literal",
+                                                    "value" : 15000000.0000000000000000,
+                                                    "value_type" : "Real"
+                                                },
+                                                "type" : "TypedFilter"
+                                            },
+                                            {
+                                                "name" : "5 - 15m2",
+                                                "type" : "Placeholder"
+                                            }
+                                        ],
+                                        "version" : 0
+                                    },
+                                    {
+                                        "name" : "15-50m2",
+                                        "processors" : [
+                                            {
+                                                "lhs" : {
+                                                    "name" : "GrossFloorArea~IFC2x3~BIM",
+                                                    "type" : "Property",
+                                                    "value_type" : "Real"
+                                                },
+                                                "operation" : ">=",
+                                                "property_lookup" : "TopDown",
+                                                "rhs" : {
+                                                    "type" : "Literal",
+                                                    "value" : 15000000.0000000000000000,
+                                                    "value_type" : "Real"
+                                                },
+                                                "type" : "TypedFilter"
+                                            },
+                                            {
+                                                "lhs" : {
+                                                    "name" : "GrossFloorArea~IFC2x3~BIM",
+                                                    "type" : "Property",
+                                                    "value_type" : "Real"
+                                                },
+                                                "operation" : "<",
+                                                "property_lookup" : "TopDown",
+                                                "rhs" : {
+                                                    "type" : "Literal",
+                                                    "value" : 50000000.0000000000000000,
+                                                    "value_type" : "Real"
+                                                },
+                                                "type" : "TypedFilter"
+                                            },
+                                            {
+                                                "name" : "15 - 50m2",
+                                                "type" : "Placeholder"
+                                            }
+                                        ],
+                                        "version" : 0
+                                    },
+                                    {
+                                        "name" : ">50m2",
+                                        "processors" : [
+                                            {
+                                                "lhs" : {
+                                                    "name" : "GrossFloorArea~IFC2x3~BIM",
+                                                    "type" : "Property",
+                                                    "value_type" : "Real"
+                                                },
+                                                "operation" : ">=",
+                                                "property_lookup" : "TopDown",
+                                                "rhs" : {
+                                                    "type" : "Literal",
+                                                    "value" : 50000000.0000000000000000,
+                                                    "value_type" : "Real"
+                                                },
+                                                "type" : "TypedFilter"
+                                            },
+                                            {
+                                                "name" : ">50m2",
+                                                "type" : "Placeholder"
+                                            }
+                                        ],
+                                        "version" : 0
+                                    }
+                                ],
+                                "type" : "Switch"
+                            }
+                        ],
+                        "version" : 0
+                    },
+                    {
+                        "name" : "Others",
+                        "processors" : [
+                            {
+                                "lhs" : {
+                                    "name" : "Type~BIM",
+                                    "type" : "Property",
+                                    "value_type" : "String"
+                                },
+                                "operation" : "does not contain",
+                                "property_lookup" : "TopDown",
+                                "rhs" : {
+                                    "type" : "Literal",
+                                    "value" : "Space",
+                                    "value_type" : "String"
+                                },
+                                "type" : "TypedFilter"
+                            },
+                            {
+                                "name" : "Others",
+                                "type" : "Placeholder"
+                            }
+                        ],
+                        "version" : 0
+                    }
+                ],
+                "type" : "Switch"
+            }
+        ],
+        "version" : 0
+    },
+    "name" : "Area Plan",
+    "path" : "Settings.dwg",
+    "placeholder_values" : [
+        {
+            "name" : "15 - 50m2",
+            "value" : {
+                "entity_customization" : {
+                    "customizations" : [
+                        {
+                            "geometry" : [
+                                "background",
+                                "intersection_fill"
+                            ],
+                            "style_name" : "Blue",
+                            "visible" : true
+                        }
+                    ],
+                    "inherit_for_plies" : true,
+                    "material" : "Silver"
+                },
+                "type" : "CustomizationData"
+            }
+        },
+        {
+            "name" : "5 - 15m2",
+            "value" : {
+                "entity_customization" : {
+                    "customizations" : [
+                        {
+                            "geometry" : [
+                                "background",
+                                "intersection_fill"
+                            ],
+                            "style_name" : "Brown",
+                            "visible" : true
+                        }
+                    ],
+                    "inherit_for_plies" : true,
+                    "material" : "Silver"
+                },
+                "type" : "CustomizationData"
+            }
+        },
+        {
+            "name" : "<5m2",
+            "value" : {
+                "entity_customization" : {
+                    "customizations" : [
+                        {
+                            "geometry" : [
+                                "background",
+                                "intersection_fill"
+                            ],
+                            "style_name" : "Red",
+                            "visible" : true
+                        }
+                    ],
+                    "inherit_for_plies" : true,
+                    "material" : "Silver"
+                },
+                "type" : "CustomizationData"
+            }
+        },
+        {
+            "name" : ">50m2",
+            "value" : {
+                "entity_customization" : {
+                    "customizations" : [
+                        {
+                            "geometry" : [
+                                "background",
+                                "intersection_fill"
+                            ],
+                            "style_name" : "Green",
+                            "visible" : true
+                        }
+                    ],
+                    "inherit_for_plies" : true,
+                    "material" : "Silver"
+                },
+                "type" : "CustomizationData"
+            }
+        },
+        {
+            "name" : "Others",
+            "value" : {
+                "entity_customization" : {
+                    "customizations" : [
+                        {
+                            "geometry" : [
+                                "background"
+                            ],
+                            "style_name" : "Grey",
+                            "visible" : true
+                        },
+                        {
+                            "geometry" : [
+                                "cut_away",
+                                "hidden_lines",
+                                "elevation_fill",
+                                "intersection_fill",
+                                "intersection_boundary"
+                            ],
+                            "style_name" : "Invisible",
+                            "visible" : false
+                        }
+                    ],
+                    "inherit_for_plies" : true
+                },
+                "type" : "CustomizationData"
+            }
+        }
+    ],
+    "style_definitions" : [
+        {
+            "style" : {
+                "linetype_scale" : 1.0000000000000000,
+                "name" : "Blue"
+            },
+            "style_name" : "Blue"
+        },
+        {
+            "style" : {
+                "linetype_scale" : 1.0000000000000000,
+                "name" : "Brown"
+            },
+            "style_name" : "Brown"
+        },
+        {
+            "style" : {
+                "linetype_scale" : 1.0000000000000000,
+                "name" : "Green"
+            },
+            "style_name" : "Green"
+        },
+        {
+            "style" : {
+                "linetype_scale" : 1.0000000000000000,
+                "name" : "Grey"
+            },
+            "style_name" : "Grey"
+        },
+        {
+            "style" : {
+                "linetype_scale" : 1.0000000000000000,
+                "name" : "Red"
+            },
+            "style_name" : "Red"
+        }
+    ],
+    "version" : 0
+}

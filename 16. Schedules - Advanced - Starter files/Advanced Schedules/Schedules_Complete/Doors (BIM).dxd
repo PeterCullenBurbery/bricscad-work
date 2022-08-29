@@ -1,0 +1,39 @@
+[Version]
+2.0
+
+[PATHS]
+$CurProj
+
+[Settings]
+ExtractFromBlocks=1
+ExtractFromXrefs=1
+CountXrefs=0
+CombineEqualRows=0
+IncludeNameColumn=1
+FooterStyle=0
+FlowDirectionRtoL=0
+CSVdelimiter=0
+IncludeLayouts=0
+
+[Entity Types]
+*
+
+[Properties]
+BlockView|BlockViewProperty1|BlockViewProperty1|Front;$(SECTIONSETTINGSSEARCHPATH):_SectionSettings.dwg;_BlockViewSettingsSection
+BlockView|BlockViewProperty2|BlockViewProperty2|Top;$(SECTIONSETTINGSSEARCHPATH):_SectionSettings.dwg;_BlockViewSettingsSection
+Parameters:H|Height|
+Parameters:W|Width|
+Parameters:FrameThickness|Frame thickness|
+BIM:Building|Building|
+BIM:Story|Story|
+BIM:Name|Name|
+BIM:ConstructionType|Construction type|
+BIM:OperationType|Operation type|
+BIM:Description|Description|
+Pset_DoorCommon:IsExternal|Is external|%tc1
+Pset_DoorCommon:FireRating|Fire rating|
+Pset_DoorCommon:FireExit|Fire exit|%tc1
+Pset_ConcreteElementGeneral:ConstructionType|Construction type|
+
+[Filter]
+(EntityType=="Block Reference") and (Type == "BIM_DOOR")

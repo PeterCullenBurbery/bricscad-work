@@ -1,0 +1,3 @@
+BimDbFooting	IfcColumn
+BimDbFurnishingElement	skip
+BimDbFlowTerminal	skip

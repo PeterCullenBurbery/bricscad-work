@@ -1,0 +1,32 @@
+[Version]
+2.0
+
+[PATHS]
+$CurProj
+
+[Settings]
+ExtractFromBlocks=0
+ExtractFromXrefs=0
+CountXrefs=0
+CombineEqualRows=1
+IncludeNameColumn=0
+FooterStyle=0
+FlowDirectionRtoL=0
+CSVdelimiter=0
+IncludeLayouts=0
+
+[Entity Types]
+*
+
+[Properties]
+BIM:Building|Building|
+BIM:Description|Description|
+Qto_SpaceQuantity_Ifc2x3:GrossFloorArea|Gross floor area|%lu2%pr2
+BIM:Name|Name|
+BIM:Story|Story|
+
+[Filter]
+Type == BIM_SPACE
+
+
+

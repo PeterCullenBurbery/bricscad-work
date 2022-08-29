@@ -1,0 +1,294 @@
+<?xml version="1.0"?>
+<DetailTagCache>
+	<FileInfo Path="C:\ProgramData\Bricsys\Details\MEP\FlangeConnection.dwg" LastModified="2019/9/1/9/20/12">
+		<Tag Name="3D" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="3 Dimensional" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="Three Dimensional" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="2 base solids" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="2 bases" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name=" linear solid" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Flow Segment" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="HVAC Rectangular Duct 400x300" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="RectangleProfile" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name=" linear solid" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Flow Segment" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="HVAC Rectangular Duct 400x300" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="RectangleProfile" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="no detail object" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+	</FileInfo>
+	<FileInfo Path="C:\ProgramData\Bricsys\Details\RoofWallConnections\RW_45.dwg" LastModified="2019/10/5/14/13/52">
+		<Tag Name="2D" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="2 base solids" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="planar solid" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Wall" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Cavity Wall, Back" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="5 plies" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="planar solid" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Roof" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Roof, Flat, Concrete" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="4 plies" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="2 detail objects" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="linear solid" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="Building element" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="Concrete, Plain" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="1 ply" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="Supporting Wall, Cellular Concrete" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="1 ply" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="wallcap" Type="detailTag" Group_id="0" Author="User" Class_Version="0" />
+	</FileInfo>
+	<FileInfo Path="C:\ProgramData\Bricsys\Details\RoofWallConnections\RW_45_wallcap.dwg" LastModified="2019/10/5/12/12/28">
+		<Tag Name="2D" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="2 base solids" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="planar solid" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Wall" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Cavity Wall, Back" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="5 plies" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="planar solid" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Roof" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Roof, Flat, Concrete" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="4 plies" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="2 detail objects" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="linear solid" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="Building element" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="Concrete, Plain" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="1 ply" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="Supporting Wall, Cellular Concrete" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="1 ply" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="wallcap" Type="detailTag" Group_id="0" Author="User" Class_Version="0" />
+	</FileInfo>
+	<FileInfo Path="C:\ProgramData\Bricsys\Details\RoofWallConnections\RW_9_6_Cap_04.dwg" LastModified="2019/9/1/11/0/16">
+		<Tag Name="2D" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="2 Dimensional" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="Two Dimensional" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="2 base solids" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="2 bases" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name=" planar solid" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Wall" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Ext_RainscreenSys-1" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="6  plies" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name=" planar solid" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Roof" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Roof, Sloped Wood-wCover" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="9  plies" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="3 detail objects" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name=" linear solid" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name=" linear solid" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name=" linear solid" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+	</FileInfo>
+	<FileInfo Path="C:\ProgramData\Bricsys\Details\Structural\BBC_MM_Plate_Tab_06.dwg" LastModified="2019/8/17/21/31/30">
+		<Tag Name="3D" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="3 Dimensional" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="Three Dimensional" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="5 base solids" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="5 bases" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name=" linear solid" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Column" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="AISC HSS 203.2x203.2x9.5" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="RectangleHollowProfile" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name=" linear solid" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Beam" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="AS UB 360x56.7" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="IShapeProfile" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name=" linear solid" Type="detailTag" Group_id="3" Author="System" Class_Version="0" />
+		<Tag Name="Member" Type="detailTag" Group_id="3" Author="System" Class_Version="0" />
+		<Tag Name="AISC HSS 139.7x139.7x9.5" Type="detailTag" Group_id="3" Author="System" Class_Version="0" />
+		<Tag Name="RectangleHollowProfile" Type="detailTag" Group_id="3" Author="System" Class_Version="0" />
+		<Tag Name=" linear solid" Type="detailTag" Group_id="4" Author="System" Class_Version="0" />
+		<Tag Name="Member" Type="detailTag" Group_id="4" Author="System" Class_Version="0" />
+		<Tag Name="AISC HSS 139.7x139.7x9.5" Type="detailTag" Group_id="4" Author="System" Class_Version="0" />
+		<Tag Name="RectangleHollowProfile" Type="detailTag" Group_id="4" Author="System" Class_Version="0" />
+		<Tag Name=" linear solid" Type="detailTag" Group_id="5" Author="System" Class_Version="0" />
+		<Tag Name="Beam" Type="detailTag" Group_id="5" Author="System" Class_Version="0" />
+		<Tag Name="AS UB 360x56.7" Type="detailTag" Group_id="5" Author="System" Class_Version="0" />
+		<Tag Name="IShapeProfile" Type="detailTag" Group_id="5" Author="System" Class_Version="0" />
+		<Tag Name="6 detail objects" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name=" planar solid" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="Plate" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name=" planar solid" Type="detailTag" Group_id="3" Author="System" Class_Version="0" />
+		<Tag Name="Plate" Type="detailTag" Group_id="3" Author="System" Class_Version="0" />
+	</FileInfo>
+	<FileInfo Path="C:\ProgramData\Bricsys\Details\Structural\BC_MM_Plate_Tab_06.dwg" LastModified="2019/8/18/9/46/20">
+		<Tag Name="3D" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="3 Dimensional" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="Three Dimensional" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="4 base solids" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="4 bases" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name=" linear solid" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Column" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="CNS SHS 250x250x12" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="RectangleHollowProfile" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name=" linear solid" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Beam" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="AISC HSS 304.8x101.6x15.9" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="RectangleHollowProfile" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name=" linear solid" Type="detailTag" Group_id="3" Author="System" Class_Version="0" />
+		<Tag Name="Beam" Type="detailTag" Group_id="3" Author="System" Class_Version="0" />
+		<Tag Name="AISC HSS 304.8x101.6x15.9" Type="detailTag" Group_id="3" Author="System" Class_Version="0" />
+		<Tag Name="RectangleHollowProfile" Type="detailTag" Group_id="3" Author="System" Class_Version="0" />
+		<Tag Name=" linear solid" Type="detailTag" Group_id="4" Author="System" Class_Version="0" />
+		<Tag Name="Beam" Type="detailTag" Group_id="4" Author="System" Class_Version="0" />
+		<Tag Name="AS UB 530x82" Type="detailTag" Group_id="4" Author="System" Class_Version="0" />
+		<Tag Name="IShapeProfile" Type="detailTag" Group_id="4" Author="System" Class_Version="0" />
+		<Tag Name="Plate" Type="detailTag" Group_id="0" Author="User" Class_Version="0" />
+	</FileInfo>
+	<FileInfo Path="C:\ProgramData\Bricsys\Details\Structural\BC_bolted plated.dwg" LastModified="2019/10/13/17/48/31">
+		<Tag Name="3D" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="2 base solids" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="linear solid" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Column" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="AISC HP 310x110" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="IShape" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Structural Steel" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="linear solid" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Beam" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="AS UB 180x18.1" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="IShape" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Structural Steel" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="7+ detail objects" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="planar solid" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="Plate" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="Mechanical faster" Type="detailTag" Group_id="3" Author="System" Class_Version="0" />
+		<Tag Name="Mechanical faster" Type="detailTag" Group_id="6" Author="System" Class_Version="0" />
+		<Tag Name="Mechanical faster" Type="detailTag" Group_id="9" Author="System" Class_Version="0" />
+		<Tag Name="Mechanical faster" Type="detailTag" Group_id="12" Author="System" Class_Version="0" />
+		<Tag Name="Mechanical faster" Type="detailTag" Group_id="15" Author="System" Class_Version="0" />
+		<Tag Name="Mechanical faster" Type="detailTag" Group_id="18" Author="System" Class_Version="0" />
+		<Tag Name="planar solid" Type="detailTag" Group_id="19" Author="System" Class_Version="0" />
+		<Tag Name="Plate" Type="detailTag" Group_id="19" Author="System" Class_Version="0" />
+	</FileInfo>
+	<FileInfo Path="C:\ProgramData\Bricsys\Details\Structural\TrussConnection.dwg" LastModified="2019/10/8/12/6/39">
+		<Tag Name="3D" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="3 base solids" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="linear solid" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Beam" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="AISC HP 200x53" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="IShape" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Structural Steel" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="linear solid" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Member" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="AISC M 100x4.8" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="IShape" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Structural Steel" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="linear solid" Type="detailTag" Group_id="3" Author="System" Class_Version="0" />
+		<Tag Name="Member" Type="detailTag" Group_id="3" Author="System" Class_Version="0" />
+		<Tag Name="AISC M 100x4.8" Type="detailTag" Group_id="3" Author="System" Class_Version="0" />
+		<Tag Name="IShape" Type="detailTag" Group_id="3" Author="System" Class_Version="0" />
+		<Tag Name="Structural Steel" Type="detailTag" Group_id="3" Author="System" Class_Version="0" />
+		<Tag Name="4 detail objects" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="planar solid" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="planar solid" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="planar solid" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="planar solid" Type="detailTag" Group_id="3" Author="System" Class_Version="0" />
+	</FileInfo>
+	<FileInfo Path="C:\ProgramData\Bricsys\Details\Structural\test top.dwg" LastModified="2019/10/13/16/12/16">
+		<Tag Name="3D" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="2 base solids" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="linear solid" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Column" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="AISC HP 310x110" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="IShape" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Structural Steel" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="linear solid" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Beam" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="AISC HP 200x53" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="IShape" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Structural Steel" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="7+ detail objects" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="planar solid" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="Plate" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+	</FileInfo>
+	<FileInfo Path="C:\ProgramData\Bricsys\Details\Structural\test.dwg" LastModified="2019/10/18/11/23/14">
+		<Tag Name="3D" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="2 base solids" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="linear solid" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Column" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="AISC HP 310x110" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="IShape" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Structural Steel" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="linear solid" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Beam" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="AS UB 180x18.1" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="IShape" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Structural Steel" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="2 detail objects" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="linear solid" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+	</FileInfo>
+	<FileInfo Path="C:\ProgramData\Bricsys\Details\WallSlabConnections\CloserAngleConnection.dwg" LastModified="2019/8/19/10/13/36" />
+	<FileInfo Path="C:\ProgramData\Bricsys\Details\WallWallConnections\WW_11_miter.dwg" LastModified="2019/9/1/21/6/16">
+		<Tag Name="2D" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="2 base solids" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name=" planar solid" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Wall" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name=" planar solid" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Wall" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="no detail object" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+	</FileInfo>
+	<FileInfo Path="C:\ProgramData\Bricsys\Details\WallWallConnections\WW_33_innerInner.dwg" LastModified="2019/9/1/21/11/2">
+		<Tag Name="2D" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="2 base solids" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name=" planar solid" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Wall" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Interior Wall Plaster, 140" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="3  plies" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name=" planar solid" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Wall" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Interior Wall Plaster, 140" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="3  plies" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="no detail object" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+	</FileInfo>
+	<FileInfo Path="C:\ProgramData\Bricsys\Details\WallWallConnections\WW_33_miter.dwg" LastModified="2019/9/1/21/9/40">
+		<Tag Name="2D" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="2 base solids" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name=" planar solid" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Wall" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Interior Wall Plaster, 140" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="3  plies" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name=" planar solid" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Wall" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Interior Wall Plaster, 140" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="3  plies" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="no detail object" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+	</FileInfo>
+	<FileInfo Path="C:\ProgramData\Bricsys\Details\WallWallConnections\WW_35_innerOuter.dwg" LastModified="2019/9/1/21/8/18">
+		<Tag Name="2D" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="2 base solids" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name=" planar solid" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Wall" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Cavity Wall, Brick, Gypsum" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="5  plies" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name=" planar solid" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Wall" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Interior Wall Plaster, 140" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="3  plies" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="no detail object" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+	</FileInfo>
+	<FileInfo Path="C:\ProgramData\Bricsys\Details\WallWallConnections\WW_45_cavityBrick.dwg" LastModified="2019/9/1/21/5/18">
+		<Tag Name="2D" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="2 base solids" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name=" planar solid" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Wall" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Cavity Wall, Brick, Gypsum" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="5  plies" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name=" planar solid" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Wall" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Cavity Wall, Brick" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="4  plies" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="no detail object" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+	</FileInfo>
+	<FileInfo Path="C:\ProgramData\Bricsys\Details\WallWallConnections\WW_55_CavityBrickGypsum.dwg" LastModified="2019/9/1/12/35/54">
+		<Tag Name="2D" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="2 Dimensional" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="Two Dimensional" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="2 base solids" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name="2 bases" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+		<Tag Name=" planar solid" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Wall" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="Cavity Wall, Brick, Gypsum" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name="5  plies" Type="detailTag" Group_id="1" Author="System" Class_Version="0" />
+		<Tag Name=" planar solid" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Wall" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="Cavity Wall, Brick, Gypsum" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="5  plies" Type="detailTag" Group_id="2" Author="System" Class_Version="0" />
+		<Tag Name="no detail object" Type="detailTag" Group_id="0" Author="System" Class_Version="0" />
+	</FileInfo>
+</DetailTagCache>

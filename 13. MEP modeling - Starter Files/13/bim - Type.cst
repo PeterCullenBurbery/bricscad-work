@@ -1,0 +1,85 @@
+{
+  "created": {
+    "by": "BricsCAD",
+    "on": "2022-03-10 11:11:41"
+  },
+  "rules": [
+    {
+      "name": "Spatial Elements",
+      "filter": [
+        "BIM/SpatialElementType",
+        "BIM/RoomRepresentation"
+      ],
+      "group": [
+        "DiffType",
+        "BIM/Building",
+        "BIM/Story",
+        "BIM/Type"
+      ],
+      "sort": [
+        "BIM/Name",
+        "EffectiveName"
+      ],
+      "nested": false
+    },
+    {
+      "name": "Building Elements",
+      "filter": [
+        "BIM/BuildingElementType",
+        "BIM/Type"
+      ],
+      "group": [
+        "DiffType",
+        "BIM/Type",
+        "BIM/Profile",
+        "BIM/Composition",
+        "BIM/Building",
+        "BIM/Story"
+      ],
+      "sort": [
+        "BIM/Name",
+        "EffectiveName"
+      ],
+      "nested": false
+    },
+    {
+      "name": "Sections",
+      "filter": [
+        "BIM/SectionType"
+      ],
+      "group": [
+        "DiffType",
+        "BIM/SectionType"
+      ],
+      "sort": [
+        "Name"
+      ],
+      "nested": false
+    },
+    {
+      "name": "Entities",
+      "filter": [],
+      "group": [
+        "DiffType",
+        "EntityType"
+      ],
+      "sort": [
+        "Name",
+        "EffectiveName",
+        "Handle"
+      ],
+      "nested": false
+    }
+  ],
+  "mode": "showAll",
+  "some": [],
+  "options": {
+    "treeSelect": "select",
+    "entitySelect": true,
+    "autoExpand": true,
+    "autoCollapse": false,
+    "xplodeXRefs": false,
+    "deselectOnHide": true,
+    "displayMode": "byType"
+  }
+}

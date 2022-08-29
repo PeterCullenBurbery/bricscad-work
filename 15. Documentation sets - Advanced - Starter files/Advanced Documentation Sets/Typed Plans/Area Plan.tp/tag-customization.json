@@ -1,0 +1,50 @@
+{
+    "filter_tree" : {
+        "name" : "",
+        "processors" : [
+            {
+                "queries" : [
+                    {
+                        "name" : "Space Rule",
+                        "processors" : [
+                            {
+                                "lhs" : {
+                                    "name" : "Type~BIM",
+                                    "type" : "Property",
+                                    "value_type" : "String"
+                                },
+                                "operation" : "=",
+                                "property_lookup" : "BottomUp",
+                                "rhs" : {
+                                    "type" : "Literal",
+                                    "value" : "Space",
+                                    "value_type" : "String"
+                                },
+                                "type" : "TypedFilter"
+                            },
+                            {
+                                "name" : "Spaces",
+                                "type" : "Placeholder"
+                            }
+                        ],
+                        "version" : 0
+                    }
+                ],
+                "type" : "Switch"
+            }
+        ],
+        "version" : 0
+    },
+    "path" : "Settings.dwg",
+    "placeholder_values" : [
+        {
+            "name" : "Spaces",
+            "value" : {
+                "auto_placement" : true,
+                "auto_rotation" : false,
+                "style_name" : "_SpaceTypeStyle",
+                "type" : "TagCustomization"
+            }
+        }
+    ]
+}

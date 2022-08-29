@@ -1,0 +1,74 @@
+{
+  "sectionResults": [
+    {
+      "result": "Sheets\\A-100.dwg",
+      "vpHandle": "6B5",
+      "lastElapsed": -1
+    },
+    {
+      "result": "Sheets\\A-100.dwg",
+      "vpHandle": "6C4",
+      "lastElapsed": -1
+    },
+    {
+      "result": "Sheets\\A-101.dwg",
+      "vpHandle": "6B5",
+      "lastElapsed": -1
+    },
+    {
+      "result": "Sheets\\A-101.dwg",
+      "vpHandle": "6C4",
+      "lastElapsed": -1
+    },
+    {
+      "result": "Sheets\\A-300.dwg",
+      "vpHandle": "6B5",
+      "lastElapsed": -1
+    },
+    {
+      "result": "Sheets\\A-300.dwg",
+      "vpHandle": "6C4",
+      "lastElapsed": -1
+    },
+    {
+      "result": "Sheets\\A-300.dwg",
+      "vpHandle": "6CD",
+      "lastElapsed": -1
+    },
+    {
+      "result": "Sheets\\A-301.dwg",
+      "vpHandle": "6B5",
+      "lastElapsed": -1
+    },
+    {
+      "result": "Sheets\\A-400.dwg",
+      "vpHandle": "6B5",
+      "lastElapsed": -1
+    },
+    {
+      "result": "Sheets\\A-400.dwg",
+      "vpHandle": "6C4",
+      "lastElapsed": -1
+    },
+    {
+      "result": "Sheets\\A-401.dwg",
+      "vpHandle": "6B5",
+      "lastElapsed": -1
+    },
+    {
+      "result": "Sheets\\A-600.dwg",
+      "vpHandle": "6B5",
+      "lastElapsed": -1
+    },
+    {
+      "result": "Sheets\\A-600.dwg",
+      "vpHandle": "6C4",
+      "lastElapsed": -1
+    },
+    {
+      "result": "Sheets\\A-600.dwg",
+      "vpHandle": "6CD",
+      "lastElapsed": -1
+    }
+  ]
+}
