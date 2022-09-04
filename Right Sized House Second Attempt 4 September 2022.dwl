@@ -1,3 +1,0 @@
-peter
-TERNARYCOMPUTER
-Sunday, September 04, 2022 7:54:33 PM
